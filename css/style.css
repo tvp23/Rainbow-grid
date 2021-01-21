@@ -1,0 +1,13 @@
+#gridcon{
+    display: flex;
+    flex-wrap: wrap;
+
+    width: 500px;
+
+    background-color: gray;
+}
+
+.griditem{
+    width: 100px;
+    height: 100px;
+}
